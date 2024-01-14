@@ -89,23 +89,33 @@ export default {
 
   data() {
     return {
-      "mission_slug": "001",
+      "mission_slug": "003",
       "current_md": "",
       "events": "",
       "missions": [
+		{
+		  "slug": "001",
+		  "name": "Solstice Rain",
+		  "status": "success",
+		}
+		{
+		  "slug": "002",
+		  "name": "Daybreak",
+		  "status": "success",
+		}
         {
-          "slug": "001",
-          "name": "Bug-Hunt",
+          "slug": "003",
+          "name": "Dustgrave",
           "status": "start"
         },
       ],
       "pilots": [
         {
-          "callsign": "Jinzo",
-          "alias": "Shayan Arsenal",
+          "callsign": "Psyche",
+          "alias": "Carmel Crick",
           "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
-          "corpro": "GMS",
-          "frame": "Everest",
+          "corpro": "HORUS",
+          "frame": "Gremlin",
           "mech": "Type - Worst Beat"
         },
         {

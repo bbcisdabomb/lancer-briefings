@@ -1,4 +1,11 @@
-Born and raised on the wandering planet Gygax D 20, Darren Price nonetheless was always watching for the next source of excitement. All went well enough until a Cosmopolitan convinced him to go along for an interstellar joyride, during which his planet disappeared on a new wander and left Darren stranded.
-After a fruitless search for his home planet, Darren wandered and eventually found his way to an underground mecha fighting ring. There he discovered and developed an impressive talent for mech fighting under the name The Overtaker. His rise to fame was meteoric and based on his record-setting win streak, but it all came crashing down after Darren refused to throw a match. He defeated his opponent, only to be shot by the owner of the fighting ring and left for dead.
-Dead may have been Darren's fate, but for a passing surgeon discovering him. Kennedy Fairchild patched Darren up, then joined Darren in joining the Union Navy to escape the planet.
-Now, under the callsign Galahad, Darren fights for peace, justice, and for the fate of the frankly impressive amount of people he's become friends with. Maybe someday he'll even forgive Zander for convincing him to go on a joyride, all those years ago.
+The price of progress is measured in people, and those lost are lauded as heroes. To give one's life to the betterment of mankind is almost universally held as the highest honor as people line up to offer themselves to the furnace of progress.
+The price of maintenance is also measured in people, but while progress burns the best, brightest, and highest status, maintenance crushes the lowly and downtrodden. No matter how perfect and communistic the society, someone has to clean the toilets, unclog the sewers, pave the roads, or grease the cogs.
+Darren Price's family was a family of, euphemistically, cog-greasers. Living on the wandering planet Gygax D 20, the Price family kept the gears and flywheels going to provide energy where it was needed. It was a necessary job, one that had them called heroes while they lived in relative squalor.
+Father Price lost his life working on a stuck gear, and Mother Price passed soon after. The doctors could have cured her cancer, read her obituary, but nothing can cure a broken heart. Galahad's broken heart lead to broken bones in a local fighting ring, which lead to an offer to break mechs for a living. What was a grief-stricken man to do, turn down an opportunity to smash things for a living?
+Several years and an unbroken victory streak later, Darren was given the chance to lose a mech fight in exchange for a fantastic amount of mana. Darren refused the offer and barely squeaked out a win, earning himself adoration from his fans and a knife in the ribs from his contacts. He surely would have bled to death, if not for a passing surgeon patching him up while he signed himself up for a tour in the Union Naval Corps.
+
+##TRIVIA
+
+*Theme song: Nothing at the moment. Will probably be Tubthumping by Chumbawamba if Psyche ever gets around to playing it for him
+
+*EKG: Everybody Knows Galahad
