@@ -91,23 +91,23 @@ export default {
     return {
       "mission_slug": "003",
       "current_md": "",
-      "events": "",
+      "events": "001",
       "missions": [
-		{
-		  "slug": "001",
-		  "name": "Solstice Rain",
-		  "status": "success",
-		}
-		{
-		  "slug": "002",
-		  "name": "Daybreak",
-		  "status": "success",
-		}
         {
           "slug": "003",
           "name": "Dustgrave",
           "status": "start"
         },
+		{
+		  "slug": "002",
+		  "name": "Daybreak",
+		  "status": "success",
+		},
+		{
+		  "slug": "001",
+		  "name": "Solstice Rain",
+		  "status": "success",
+		},
       ],
       "pilots": [
         {
@@ -156,7 +156,7 @@ export default {
         "year": "5018u",
         "system": "Iarite-VII",
         "gate": "Quantum Product",
-        "ring": "Delta-Echo-Echo-Zulu-Line",
+        "ring": "Delta-Line",
         "headerTitle": "Mythos",
         "headerSubtitle": "Mercenary Company",
         "subheaderTitle": "Where Needed",
