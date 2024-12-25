@@ -96,22 +96,22 @@ export default {
         	{
           	"slug": "006",
          	 "name": "Dustgrave: investigation",
-         	 "status": "Success"
+         	 "status": "success"
        		},
         	{
           	"slug": "005",
          	 "name": "Dustgrave, continued",
-         	 "status": "Success"
+         	 "status": "success"
        		},
         	{
           	"slug": "004",
          	 "name": "Dustgrave",
-         	 "status": "Success"
+         	 "status": "success"
        		},
         	{
           	"slug": "003",
          	 "name": "Solstice Downtime",
-         	 "status": "Success"
+         	 "status": "success"
        		},
 		{
 		  "slug": "002",
