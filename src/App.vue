@@ -137,8 +137,8 @@ export default {
           "callsign": "Quasar",
           "alias": "Harald Bogdanski",
           "code": "6439d31d-1ce1-4629-8e34-01bd508f3c16///PLR-C-DEEP-STATION//480707b3-c7c3-487c-9e8e-2e324d6cffc6",
-          "corpro": "SSC",
-          "frame": "Monarch",
+          "corpro": "HA",
+          "frame": "Barbarossa",
           "mech": "Collateral Damage"
         },
         {
@@ -146,8 +146,8 @@ export default {
           "alias": "Darren Price",
           "code": "cf0199d7-c292-4a5a-9f2c-daa7309bc1c5///PLR-C-DEEP-STATION//1435d694-3929-4a0c-bf8b-53f45ad3ba2a",
           "corpro": "IPS-N",
-          "frame": "Vlad",
-          "mech": "Looking For Trouble"
+          "frame": "Zheng",
+          "mech": "To The Moon"
         },
         {
           "callsign": "Basilisk",
@@ -167,11 +167,11 @@ export default {
         },
       ],
       "header": {
-        "planet": "Havelburg",
-        "year": "5018u",
-        "system": "Iarite-VII",
-        "gate": "Quantum Product",
-        "ring": "Delta-Line",
+        "planet": "Ludra's world",
+        "year": "5020u",
+        "system": "The Dawnline shore",
+        "gate": "N/A",
+        "ring": "Karrakis Pahala",
         "headerTitle": "Mythos",
         "headerSubtitle": "Mercenary Company",
         "subheaderTitle": "Where Needed",
