@@ -89,15 +89,30 @@ export default {
 
   data() {
     return {
-      "mission_slug": "003",
+      "mission_slug": "006",
       "current_md": "",
       "events": "001",
       "missions": [
-        {
-          "slug": "003",
-          "name": "Dustgrave",
-          "status": "start"
-        },
+        	{
+          	"slug": "006",
+         	 "name": "Dustgrave: investigation",
+         	 "status": "Success"
+       		},
+        	{
+          	"slug": "005",
+         	 "name": "Dustgrave, continued",
+         	 "status": "Success"
+       		},
+        	{
+          	"slug": "004",
+         	 "name": "Dustgrave",
+         	 "status": "Success"
+       		},
+        	{
+          	"slug": "003",
+         	 "name": "Solstice Downtime",
+         	 "status": "Success"
+       		},
 		{
 		  "slug": "002",
 		  "name": "Daybreak",
